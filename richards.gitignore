@@ -1,0 +1,5 @@
+# Ignore the no-tracking folder
+no-tracking/
+
+# Ignore bitmaps
+*.bmp
